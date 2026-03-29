@@ -183,6 +183,15 @@ body {
   letter-spacing: 1px;
 }
 
+.info-item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.info-item a:hover {
+  text-decoration: underline;
+}
+
 .note {
   margin-top: 8px;
   font-size: 13px;
